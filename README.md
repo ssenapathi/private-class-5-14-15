@@ -26,3 +26,11 @@ Here are the activities you will complete in this class. If you get stuck or hav
 10. Create a new file using the desktop apps. [Instructions](https://github.com/githubteacher/private-class-5-4-15/blob/master/instructions/new-file-on-desktop.md)
 11. Push your changes to GitHub. [Instructions](https://github.com/githubteacher/private-class-5-4-15/blob/master/instructions/push-changes-desktop.md)
 12. Merge your changes. [Instructions](https://github.com/githubteacher/private-class-5-4-15/blob/master/instructions/merge-your-pull-request.md)
+
+## Super Secret Questions
+
+Really, these are super secret - please don't click these links until asked to do so by the facilitator!
+
+- [Question #1](http://www.surveygizmo.com/s3/2142044/6c08703950a5)
+- [Question #2](http://www.surveygizmo.com/s3/2142044/285d8f119371)
+- [Question #3](http://www.surveygizmo.com/s3/2142062/a302cbe96fa4)
