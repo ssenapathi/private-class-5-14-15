@@ -6,9 +6,9 @@
 ## Class Goals
 
 During this class, you will learn:
-- How git and GitHub work together to version control your projects.
-- A baseline of information on how GitHub enables collaboration within your work team.
-- How to use the GitHub platform and GitHub desktop applications.
+- How Git and GitHub work together to version control your projects.
+- How GitHub makes collaborating on projects easy.
+- How to use the GitHub web interface and the GitHub desktop applications.
 
 ## Class Activities
 
@@ -29,7 +29,7 @@ Here are the activities you will complete in this class. If you get stuck or hav
 
 ## Super Secret Questions
 
-Really, these are super secret - please don't click these links until asked to do so by the facilitator!
+Really, these are super secret - please don't click these links until asked to do so by the trainer!
 
 - [Question #1](http://www.surveygizmo.com/s3/2142044/6c08703950a5)
 - [Question #2](http://www.surveygizmo.com/s3/2142044/285d8f119371)
