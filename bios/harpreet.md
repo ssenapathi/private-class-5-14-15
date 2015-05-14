@@ -1,5 +1,5 @@
 This is Harpreet 
 
-> Services Engineer
-> Works at Intuit, Plano
+> Services Engineer  
+> Work at Intuit, Plano  
 > 
