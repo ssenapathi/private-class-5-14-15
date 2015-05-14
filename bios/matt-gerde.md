@@ -1,0 +1,3 @@
+- Architect for Intuit
+- Worked at Intuit for 19 years
+- Two daughters...1 a senior at Texas Tech and the other a high school senior
