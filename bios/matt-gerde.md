@@ -1,3 +1,3 @@
 - Architect for Intuit
-- Worked at Intuit for 19 years
+- Worked at Intuit for 19 years...the first 3 were with Lacerte before Intuit acquired us in 1998
 - Two daughters...1 a senior at Texas Tech and the other a high school senior
