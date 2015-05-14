@@ -1,1 +1,2 @@
-I am no sure I feel confortable talking about me
+Ok ok!
+I owned several drones... fly fly baby fly!
